@@ -1,0 +1,2 @@
+## Xamarin Sticky Headers RecyclerView ##
+Xamarin.Android Bindings for Timehop's [sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview "sticky-headers-recyclerview") library.

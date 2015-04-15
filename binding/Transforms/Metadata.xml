@@ -1,0 +1,13 @@
+<metadata>
+    <attr path="/api/package[@name='com.timehop.stickyheadersrecyclerview']" name="managedName">Timehop.StickyHeadersRecyclerView</attr>
+    <attr path="/api/package[@name='com.timehop.stickyheadersrecyclerview.caching']" name="managedName">Timehop.StickyHeadersRecyclerView.Caching</attr>
+    <attr path="/api/package[@name='com.timehop.stickyheadersrecyclerview.calculation']" name="managedName">Timehop.StickyHeadersRecyclerView.Calculation</attr>
+    <attr path="/api/package[@name='com.timehop.stickyheadersrecyclerview.rendering']" name="managedName">Timehop.StickyHeadersRecyclerView.Rendering</attr>
+    <attr path="/api/package[@name='com.timehop.stickyheadersrecyclerview.util']" name="managedName">Timehop.StickyHeadersRecyclerView.Util</attr>
+
+    <attr path="/api/package[@name='com.timehop.stickyheadersrecyclerview']/interface[@name='StickyRecyclerHeadersAdapter']/method[@name='onBindHeaderViewHolder']/parameter[@name='p0']" name="managedType">Android.Support.V7.Widget.RecyclerView.ViewHolder</attr>
+
+    <attr path="/api/package[@name='com.timehop.stickyheadersrecyclerview']/interface[@name='StickyRecyclerHeadersAdapter']/method[@name='onCreateHeaderViewHolder']" name="managedReturn">Android.Support.V7.Widget.RecyclerView.ViewHolder</attr>
+
+    <!--<remove-node path="/api/package[@name='com.timehop.stickyheadersrecyclerview']/interface[@name='StickyRecyclerHeadersAdapter']/method[@name='onBindHeaderViewHolder']" />-->
+</metadata>
